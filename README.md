@@ -1,1 +1,5 @@
-# curso_html5_e_css3_tecnicas_avancadas
+Hi, i'm César but you call me Czar
+
+I'm 22 year old Front-End dev
+
+This is my second repository
